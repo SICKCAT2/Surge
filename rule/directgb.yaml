@@ -12,8 +12,7 @@ DOMAIN-SUFFIX,0ff.cc
 DOMAIN-SUFFIX,audiences.me
 DOMAIN,tracker.cinefiles.info
 # 馒头
-DOMAIN,kp.m-team.cc
-DOMAIN,xp.m-team.io
+KEYWORD,m-team
 # 幼儿园
 DOMAIN,daydream.dmhy.best
 # pt分享站
@@ -107,8 +106,11 @@ DOMAIN-SUFFIX,agsvpt.com
 DOMAIN-SUFFIX,ultrahd.net
 # Sunny
 DOMAIN-SUFFIX,sunnypt.top
+DOMAIN-SUFFIX,sunnytk.top
 #青蛙
 DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-SUFFIX,qingwapt.org
+DOMAIN-SUFFIX,qingwa.pro
 #red
 DOMAIN-SUFFIX,redacted.sh
 DOMAIN-SUFFIX,blutopia.cc
